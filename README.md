@@ -1,3 +1,8 @@
+## Running the scripts
+1. Change the working directory right at the start of the cript to reflect where you have downloaded the data
+2. Source the script to generate the graph
+
+
 ## Introduction
 
 This assignment uses data from
